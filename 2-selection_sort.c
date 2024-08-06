@@ -7,6 +7,7 @@
  *
  * Return: Exit the function if array is NULL or size less than 2
  */
+
 void selection_sort(int *array, size_t size)
 {
 	size_t i, j, min_idx;
