@@ -4,11 +4,6 @@
 
 This repository contains a collection of sorting algorithm implementations, completed as part of the curriculum at Holberton School. The projects were developed collaboratively by Lucas Niel and Anzo Hitte.
 
-## Authors
-
-- **Lucas Niel** - [HSHKZ](https://github.com/HSHKZ)
-- **Anzo Hitte** - [HitteAnzo](https://github.com/HitteAnzo)
-
 ## Description
 
 This repository includes implementations of various sorting algorithms in C, along with corresponding helper functions and test files. The project aims to deepen understanding of sorting techniques, their complexities, and their applications.
@@ -48,6 +43,3 @@ gcc -Wall -Wextra -Werror -pedantic <source_files> -o <output_file>
 
 - **Lucas Niel** - [HSHKZ](https://github.com/HSHKZ)
 - **Anzo Hitte** - [HitteAnzo](https://github.com/HitteAnzo)
-
-
-
