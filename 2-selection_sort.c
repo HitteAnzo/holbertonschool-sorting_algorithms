@@ -4,7 +4,6 @@
  * selection_sort - sorts an array of int in ascending order
  * @array: array of int to sort
  * @size: size of the array
- *
  * Return: Exit the function if array is NULL or size less than 2
  */
 
